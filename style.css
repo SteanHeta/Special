@@ -10,14 +10,15 @@ h1 { color: purple;
 }
 h2 { color: green;
     font-size: 20px;
+    justify-content: center;
+    font-style: italic;
 }
 h3 { color: red;
     font-size: 16px;
+    justify-content: center;
+    font-style: italic;
 }
 div { background-color: blanchedalmond;
-    border: 1px solid black;
-    padding: 10px;
-    margin: 10px;
 }
 .image { height: auto;
     width: 800px;
@@ -29,3 +30,5 @@ th, td { border: 1px solid black;
     padding: 10px;
 }
 
+
+}
